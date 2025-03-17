@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "md-table-organize"
-version = "0.1.0"
+name = "md-table-format"
+version = "1.0.0"
